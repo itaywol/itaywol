@@ -21,6 +21,9 @@
 [<img align='left' alt="Itay Wolfish @ YouTube" width="22px" style="margin-right:10px;" src="https://simpleicons.org/icons/youtube.svg">][youtube]
 [<img align='left' alt="Itay Wolfish @ Twitch" width="22px" style="margin-right:10px;" src="https://simpleicons.org/icons/twitch.svg">][twitch]
 
+<br />
+<br />
+
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
