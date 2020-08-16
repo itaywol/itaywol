@@ -74,6 +74,7 @@
   <img  alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img  alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white">
   <img  alt="Gitlab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white">
+  <img  alt="Gitlab CI/CD" src="https://img.shields.io/badge/CI/CD%20-%23FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white">
   <img  alt="Github" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
   <img  alt="Linux" src="https://img.shields.io/badge/Linux%20-%23121011.svg?&style=for-the-badge&logo=linux&logoColor=white">
   <img  alt="Windows Subsystem Linux" src="https://img.shields.io/badge/WSL%20-%232599db.svg?&style=for-the-badge&logo=linux&logoColor=white">
