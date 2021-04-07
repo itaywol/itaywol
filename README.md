@@ -5,32 +5,21 @@
 
 <br />
 
-### 💬 A little bit of introduction:
+## A little bit of introduction
 
-- 🙋‍♂️ My name is Itay Wolfish, im from Tel-Aviv Israel.
+- 🙋‍♂️ My name is Itay Wolfish, I'm from Tel-Aviv Israel.
 - 👶 I'm into programming since 2012, professionally from 2019.
-- 🔨 I'm working on Social Media accounts and Github Account as Web developing Tutor, Mentor and consult.
+- 🔨 Currently working on Side project related to stock data scraping.
 - 📚 I'm currently learning:
-  - Rust
-  - Advanced Angular Concepts
-  - Advanced NodeJS Concepts
+  - ELK Stack setup (Side project purposes)
+  - Advanced React Concepts
+  - Shallow UI/UX (Side project purposes)
 - 🤝 I'm looking to collaborate with other Developers and other Content creators.
-- 🥅 2020-2021 Goals:
+- 🥅 2021 Goals:
   - Find an awesome project that i can relate and contribute.
-  - Youtube / Twitch Code mentoring.
-  - Use Rust⚙ in general and for web development with WASM.
+  - Finish side project and monetize it.
 - 🎊 Fun fact: love sports, good ☕ and especially my 🐶.
 
-### 🤝 Let's stay in touch!
-
-[<img alt="Itaywols Linkedin profile" src="https://img.shields.io/badge/Email-%234287f5.svg?&style=for-the-badge&logo=gmail&logoColor=white">][email]
-[<img alt="Itaywols Linkedin profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">][linkedin]
-[<img alt="Itaywols Facebook profile" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">][facebook]
-
-### 📺 Media
-
-[<img alt="Itaywols Youtube Channel" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">][youtube]
-[<img alt="Itaywols Twitch Channel" src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white">][twitch]
 
 ---
 
@@ -79,13 +68,18 @@
   <img  alt="Linux" src="https://img.shields.io/badge/Linux%20-%23121011.svg?&style=for-the-badge&logo=linux&logoColor=white">
   <img  alt="Windows Subsystem Linux" src="https://img.shields.io/badge/WSL%20-%232599db.svg?&style=for-the-badge&logo=linux&logoColor=white">
   <img  alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu%20-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img  alt="Redis" src="https://img.shields.io/badge/Redis%20-%23FF0000.svg?&style=for-the-badge&logo=redis&logoColor=white">
 </p>
 
----
+___
 
-### 📺 Latest Youtube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+### 🤝 Let's stay in touch
+
+<br />
+
+[<img alt="Itaywols Linkedin profile" src="https://img.shields.io/badge/Email-%234287f5.svg?&style=for-the-badge&logo=gmail&logoColor=white">][email]
+[<img alt="Itaywols Linkedin profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">][linkedin]
+[<img alt="Itaywols Facebook profile" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">][facebook]
 
 ---
 
@@ -108,8 +102,6 @@
 </details>
 
 [website]: https://www.itaywol.com
-[youtube]: https://www.youtube.com/channel/UCmpgccM2kkEOh5cyXrW5TFg
-[twitch]: https://www.twitch.tv/itaywol
 [linkedin]: https://www.linkedin.com/in/itaywolfish/
 [facebook]: https://www.facebook.com/wo.itay/
 [email]: mailto://wo.itay@gmail.com
