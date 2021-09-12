@@ -9,11 +9,6 @@
 
 - 🙋‍♂️ My name is Itay Wolfish, I'm from Tel-Aviv Israel.
 - 👶 I'm into programming since 2012, professionally from 2019.
-- 🔨 Currently working on Side project related to stock data scraping.
-- 📚 I'm currently learning:
-  - ELK Stack setup (Side project purposes)
-  - Advanced React Concepts
-  - Shallow UI/UX (Side project purposes)
 - 🤝 I'm looking to collaborate with other Developers and other Content creators.
 - 🥅 2021 Goals:
   - Find an awesome project that i can relate and contribute.
@@ -35,6 +30,7 @@
   <img alt="C-Sharp" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white">
   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white">
   <img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img alt="Go" src="https://img.shields.io/badge/Go%20-%23121011.svg?&style=for-the-badge&logo=golang&logoColor=white">
 </p>
 
 ---
