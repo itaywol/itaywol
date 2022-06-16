@@ -3,14 +3,7 @@
 </p>
 <h3 align="center"> 🚀 Web development, and more.</h3>
 
-<br />
 
-## A little bit of introduction
-
-- 🙋‍♂️ My name is Itay Wolfish, I'm from Tel-Aviv Israel.
-- 👶 I'm into programming since 2012, professionally from 2019.
-- 🤝 I'm looking to collaborate with other Developers and other Content creators.
-- 🎊 Fun fact: love sports, good ☕ and especially my 🐶.
 
 
 ---
