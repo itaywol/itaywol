@@ -46,25 +46,6 @@ ___
 [<img alt="Itaywols Facebook profile" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">][facebook]
 [<img alt="Itaywols Stackoverflow" src="https://img.shields.io/badge/stackoverflow-%23FFFFFF.svg?&style=for-the-badge&logo=stackoverflow">][stackoverflow]
 
----
-
-<br />
-<details>
-  <summary>⚡ Github Stats</summary>
-  <br />
-  <p align="center">
-    <img alt="Itaywol's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itaywol&show_icons=true&theme=dracula" >
-  </p>
-</details>
-
-<br />
-<details>
-  <summary>📚 Most used languages</summary>
-  <br />
-  <p align="center">
-    <img alt="Itaywol's Github Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itaywol&layout=compact&theme=dracula">
-  </p>
-</details>
 
 [website]: https://www.itaywol.com
 [linkedin]: https://www.linkedin.com/in/itaywolfish/
